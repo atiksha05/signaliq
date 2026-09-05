@@ -1,0 +1,9 @@
+text,source,customer_id
+"The dashboard takes too long to load after I connect a large workspace.",support,cust_001
+"Please add Slack notifications when a critical issue is detected.",survey,cust_002
+"I love the summaries but the same feedback sometimes appears in multiple themes.",interview,cust_003
+"Can you integrate with Jira so we can create tickets directly?",support,cust_004
+"The sentiment label was wrong for several sarcastic comments.",survey,cust_005
+"Bulk CSV upload saved me a lot of time.",interview,cust_006
+"I need to filter insights by customer segment and plan tier.",support,cust_007
+"The onboarding flow is confusing and I did not know what data format to upload.",app_review,cust_008
